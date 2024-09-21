@@ -1,500 +1,401 @@
-﻿001,A001,B001
-002,A002,B002
-003,A003,B003
-004,A004,B004
-005,A005,B005
-006,A006,B006
-007,A007,B007
-008,A008,B008
-009,A009,B009
-010,A010,B010
-011,A011,B011
-012,A012,B012
-013,A013,B013
-014,A014,B014
-015,A015,B015
-016,A016,B016
-017,A017,B017
-018,A018,B018
-019,A019,B019
-020,A020,B020
-021,A021,B021
-022,A022,B022
-023,A023,B023
-024,A024,B024
-025,A025,B025
-026,A026,B026
-027,A027,B027
-028,A028,B028
-029,A029,B029
-030,A030,B030
-031,A031,B031
-032,A032,B032
-033,A033,B033
-034,A034,B034
-035,A035,B035
-036,A036,B036
-037,A037,B037
-038,A038,B038
-039,A039,B039
-040,A040,B040
-041,A041,B041
-042,A042,B042
-043,A043,B043
-044,A044,B044
-045,A045,B045
-046,A046,B046
-047,A047,B047
-048,A048,B048
-049,A049,B049
-050,A050,B050
-051,A051,B051
-052,A052,B052
-053,A053,B053
-054,A054,B054
-055,A055,B055
-056,A056,B056
-057,A057,B057
-058,A058,B058
-059,A059,B059
-060,A060,B060
-061,A061,B061
-062,A062,B062
-063,A063,B063
-064,A064,B064
-065,A065,B065
-066,A066,B066
-067,A067,B067
-068,A068,B068
-069,A069,B069
-070,A070,B070
-071,A071,B071
-072,A072,B072
-073,A073,B073
-074,A074,B074
-075,A075,B075
-076,A076,B076
-077,A077,B077
-078,A078,B078
-079,A079,B079
-080,A080,B080
-081,A081,B081
-082,A082,B082
-083,A083,B083
-084,A084,B084
-085,A085,B085
-086,A086,B086
-087,A087,B087
-088,A088,B088
-089,A089,B089
-090,A090,B090
-091,A091,B091
-092,A092,B092
-093,A093,B093
-094,A094,B094
-095,A095,B095
-096,A096,B096
-097,A097,B097
-098,A098,B098
-099,A099,B099
-100,A100,B100
-101,A101,B101
-102,A102,B102
-103,A103,B103
-104,A104,B104
-105,A105,B105
-106,A106,B106
-107,A107,B107
-108,A108,B108
-109,A109,B109
-110,A110,B110
-111,A111,B111
-112,A112,B112
-113,A113,B113
-114,A114,B114
-115,A115,B115
-116,A116,B116
-117,A117,B117
-118,A118,B118
-119,A119,B119
-120,A120,B120
-121,A121,B121
-122,A122,B122
-123,A123,B123
-124,A124,B124
-125,A125,B125
-126,A126,B126
-127,A127,B127
-128,A128,B128
-129,A129,B129
-130,A130,B130
-131,A131,B131
-132,A132,B132
-133,A133,B133
-134,A134,B134
-135,A135,B135
-136,A136,B136
-137,A137,B137
-138,A138,B138
-139,A139,B139
-140,A140,B140
-141,A141,B141
-142,A142,B142
-143,A143,B143
-144,A144,B144
-145,A145,B145
-146,A146,B146
-147,A147,B147
-148,A148,B148
-149,A149,B149
-150,A150,B150
-151,A151,B151
-152,A152,B152
-153,A153,B153
-154,A154,B154
-155,A155,B155
-156,A156,B156
-157,A157,B157
-158,A158,B158
-159,A159,B159
-160,A160,B160
-161,A161,B161
-162,A162,B162
-163,A163,B163
-164,A164,B164
-165,A165,B165
-166,A166,B166
-167,A167,B167
-168,A168,B168
-169,A169,B169
-170,A170,B170
-171,A171,B171
-172,A172,B172
-173,A173,B173
-174,A174,B174
-175,A175,B175
-176,A176,B176
-177,A177,B177
-178,A178,B178
-179,A179,B179
-180,A180,B180
-181,A181,B181
-182,A182,B182
-183,A183,B183
-184,A184,B184
-185,A185,B185
-186,A186,B186
-187,A187,B187
-188,A188,B188
-189,A189,B189
-190,A190,B190
-191,A191,B191
-192,A192,B192
-193,A193,B193
-194,A194,B194
-195,A195,B195
-196,A196,B196
-197,A197,B197
-198,A198,B198
-199,A199,B199
-200,A200,B200
-201,A201,B201
-202,A202,B202
-203,A203,B203
-204,A204,B204
-205,A205,B205
-206,A206,B206
-207,A207,B207
-208,A208,B208
-209,A209,B209
-210,A210,B210
-211,A211,B211
-212,A212,B212
-213,A213,B213
-214,A214,B214
-215,A215,B215
-216,A216,B216
-217,A217,B217
-218,A218,B218
-219,A219,B219
-220,A220,B220
-221,A221,B221
-222,A222,B222
-223,A223,B223
-224,A224,B224
-225,A225,B225
-226,A226,B226
-227,A227,B227
-228,A228,B228
-229,A229,B229
-230,A230,B230
-231,A231,B231
-232,A232,B232
-233,A233,B233
-234,A234,B234
-235,A235,B235
-236,A236,B236
-237,A237,B237
-238,A238,B238
-239,A239,B239
-240,A240,B240
-241,A241,B241
-242,A242,B242
-243,A243,B243
-244,A244,B244
-245,A245,B245
-246,A246,B246
-247,A247,B247
-248,A248,B248
-249,A249,B249
-250,A250,B250
-251,A251,B251
-252,A252,B252
-253,A253,B253
-254,A254,B254
-255,A255,B255
-256,A256,B256
-257,A257,B257
-258,A258,B258
-259,A259,B259
-260,A260,B260
-261,A261,B261
-262,A262,B262
-263,A263,B263
-264,A264,B264
-265,A265,B265
-266,A266,B266
-267,A267,B267
-268,A268,B268
-269,A269,B269
-270,A270,B270
-271,A271,B271
-272,A272,B272
-273,A273,B273
-274,A274,B274
-275,A275,B275
-276,A276,B276
-277,A277,B277
-278,A278,B278
-279,A279,B279
-280,A280,B280
-281,A281,B281
-282,A282,B282
-283,A283,B283
-284,A284,B284
-285,A285,B285
-286,A286,B286
-287,A287,B287
-288,A288,B288
-289,A289,B289
-290,A290,B290
-291,A291,B291
-292,A292,B292
-293,A293,B293
-294,A294,B294
-295,A295,B295
-296,A296,B296
-297,A297,B297
-298,A298,B298
-299,A299,B299
-300,A300,B300
-301,A301,B301
-302,A302,B302
-303,A303,B303
-304,A304,B304
-305,A305,B305
-306,A306,B306
-307,A307,B307
-308,A308,B308
-309,A309,B309
-310,A310,B310
-311,A311,B311
-312,A312,B312
-313,A313,B313
-314,A314,B314
-315,A315,B315
-316,A316,B316
-317,A317,B317
-318,A318,B318
-319,A319,B319
-320,A320,B320
-321,A321,B321
-322,A322,B322
-323,A323,B323
-324,A324,B324
-325,A325,B325
-326,A326,B326
-327,A327,B327
-328,A328,B328
-329,A329,B329
-330,A330,B330
-331,A331,B331
-332,A332,B332
-333,A333,B333
-334,A334,B334
-335,A335,B335
-336,A336,B336
-337,A337,B337
-338,A338,B338
-339,A339,B339
-340,A340,B340
-341,A341,B341
-342,A342,B342
-343,A343,B343
-344,A344,B344
-345,A345,B345
-346,A346,B346
-347,A347,B347
-348,A348,B348
-349,A349,B349
-350,A350,B350
-351,A351,B351
-352,A352,B352
-353,A353,B353
-354,A354,B354
-355,A355,B355
-356,A356,B356
-357,A357,B357
-358,A358,B358
-359,A359,B359
-360,A360,B360
-361,A361,B361
-362,A362,B362
-363,A363,B363
-364,A364,B364
-365,A365,B365
-366,A366,B366
-367,A367,B367
-368,A368,B368
-369,A369,B369
-370,A370,B370
-371,A371,B371
-372,A372,B372
-373,A373,B373
-374,A374,B374
-375,A375,B375
-376,A376,B376
-377,A377,B377
-378,A378,B378
-379,A379,B379
-380,A380,B380
-381,A381,B381
-382,A382,B382
-383,A383,B383
-384,A384,B384
-385,A385,B385
-386,A386,B386
-387,A387,B387
-388,A388,B388
-389,A389,B389
-390,A390,B390
-391,A391,B391
-392,A392,B392
-393,A393,B393
-394,A394,B394
-395,A395,B395
-396,A396,B396
-397,A397,B397
-398,A398,B398
-399,A399,B399
-400,A400,B400
-401,A401,B401
-402,A402,B402
-403,A403,B403
-404,A404,B404
-405,A405,B405
-406,A406,B406
-407,A407,B407
-408,A408,B408
-409,A409,B409
-410,A410,B410
-411,A411,B411
-412,A412,B412
-413,A413,B413
-414,A414,B414
-415,A415,B415
-416,A416,B416
-417,A417,B417
-418,A418,B418
-419,A419,B419
-420,A420,B420
-421,A421,B421
-422,A422,B422
-423,A423,B423
-424,A424,B424
-425,A425,B425
-426,A426,B426
-427,A427,B427
-428,A428,B428
-429,A429,B429
-430,A430,B430
-431,A431,B431
-432,A432,B432
-433,A433,B433
-434,A434,B434
-435,A435,B435
-436,A436,B436
-437,A437,B437
-438,A438,B438
-439,A439,B439
-440,A440,B440
-441,A441,B441
-442,A442,B442
-443,A443,B443
-444,A444,B444
-445,A445,B445
-446,A446,B446
-447,A447,B447
-448,A448,B448
-449,A449,B449
-450,A450,B450
-451,A451,B451
-452,A452,B452
-453,A453,B453
-454,A454,B454
-455,A455,B455
-456,A456,B456
-457,A457,B457
-458,A458,B458
-459,A459,B459
-460,A460,B460
-461,A461,B461
-462,A462,B462
-463,A463,B463
-464,A464,B464
-465,A465,B465
-466,A466,B466
-467,A467,B467
-468,A468,B468
-469,A469,B469
-470,A470,B470
-471,A471,B471
-472,A472,B472
-473,A473,B473
-474,A474,B474
-475,A475,B475
-476,A476,B476
-477,A477,B477
-478,A478,B478
-479,A479,B479
-480,A480,B480
-481,A481,B481
-482,A482,B482
-483,A483,B483
-484,A484,B484
-485,A485,B485
-486,A486,B486
-487,A487,B487
-488,A488,B488
-489,A489,B489
-490,A490,B490
-491,A491,B491
-492,A492,B492
-493,A493,B493
-494,A494,B494
-495,A495,B495
-496,A496,B496
-497,A497,B497
-498,A498,B498
-499,A499,B499
-500,A500,B500
+﻿STT,QRCODE,TÊN ĐẨY ĐỦ,TÊN NPP ĐẦY ĐỦ
+1,1001,Ông Nguyễn Ngọc Cần,NPP Cẩn Duyên
+2,1002,Bà Nguyễn Thị Huệ,NPP Hồng Đăng
+3,1003,Ông Phạm Hùng Cương,NPP Hồng Đăng
+4,1004,Ông Trần Hữu Hảo,NPP Lan Đằng
+5,1005,Bà Phạm Thị Mai Lan,NPP Lan Đằng
+6,1006,Ông Nguyễn Quang Huy,NPP Huy Hoài
+7,1007,Ông Nguyễn Văn Ông,NPP Đại Hữu
+8,1008,Bà Lê Thị Thu,NPP Đại Hữu
+9,1009,Bà Đoàn Thị Hoa,NPP Hoa Sơn Ông
+10,1010,Ông Vũ Văn Sơn,NPP Hoa Sơn Ông
+11,1011,Bà Đặng Thị Thu Trang,NPP Hưng Chanh
+12,1012,Ông Trần Tiến Thịnh,NPP Hưng Chanh
+13,1013,Ông Nguyễn Văn Sơn,NPP Minh Quân
+14,1014,Ông Phạm Văn Đồng,NPP HP Minh Quân
+15,1015,Ông Nguyễn Xuân Hải,NPP Hải Lan
+16,1016,Bà Lê Lan Anh,NPP Hải Lan
+17,1017,Ông Đào Tất Thắng,NPP Việt Thắng
+18,1018,Ông Lê Văn Tuyến,NPP Nguyễn Hường
+19,1019,Ông Đinh Văn Thịnh,NPP Nguyễn Hường
+20,1020,Ông Lê Thành Lộc,NPP Nguyễn Hường
+21,1021,Ông Nguyễn Công Thăng,NPP Cao Nhàn
+22,1022,Ông Mai Văn Lương,NPP Mai Văn Lương
+23,1023,Bà Nguyễn Thanh Thuý,NPP Mai Văn Lương
+24,1024,Bà Đinh Thị Lan,NPP Đinh Thị Lan
+25,1025,Ông Tống Đức Chính,NPP Đinh Thị Lan
+26,1026,Ông Nguyễn Văn Trụ,NPP Phạm Thị Hà 1980
+27,1027,Bà Phạm Thị Hà,NPP Phạm Thị Hà 1980
+28,1028,Bà Nguyễn Thị Lan Phương,NPP Ngũ Phúc
+29,1029,Bà Nguyễn Thị Hoà,NPP Duy Hòa 68
+30,1030,Ông Nguyễn Như Hoà,NPP Việt Ông
+31,1031,Ông Phan Minh Cao,NPP Hoa Tươi
+32,1032,Ông Nguyễn Thái Bình,NPP Thái Bình
+33,1033,Ông Đinh Quang Huy,NPP Hưng Thành
+34,1034,Bà Nguyễn Thị Chín,NPP Thanh Liêm
+35,1035,Bà Nguyễn Thị Khánh,NPP Khánh Thủy
+36,1036,Ông Đào Kim Toàn,NPP TCT Lighting
+37,1037,Bà Nguyễn Thị Oanh,NPP TCT Lighting
+38,1038,Ông Nguyễn Phương Quyết,NPP TCT Lighting
+39,1039,Bà Trần Thị Lin,NPP Linh Trường Phát
+40,1040,Ông Phạm Văn Thủy,NPP Linh Trường Phát
+41,1041,Ông Phạm Xuân Trường,NPP Linh Trường Phát
+42,1042,Bà Nguyễn Thị Hải,NPP Hải Bình HD
+43,1043,Bà Lê Thị Nga,NPP Hải Bình HD
+44,1044,Bà Nguyễn Bích Thuận,NPP Anh Việt
+45,1045,Ông Lê Hữu Thắng,NPP Nhung Thắng
+46,1046,Bà Đinh Thị Nhung,NPP Nhung Thắng
+47,1047,Bà Đinh Thị Yến,NPP Nhung Thắng
+48,1048,Bà Đinh Thị Tuyết,NPP Nhung Thắng
+49,1049,Bà Lê Thị Kim Thanh,NPP Lê Thị Kim Thanh
+50,1050,Ông Bùi Anh Văn,NPP Lê Thị Kim Thanh
+51,1051,Ông Đỗ Văn Biên,NPP Vạn Hoa
+52,1052,Bà Đỗ Thanh Hoa,NPP Vạn Hoa
+53,1053,Ông Đặng Ngọc Toàn,NPP Vạn Hoa
+54,1054,Bà Tăng Thị Sim,NPP Nguyễn Thành Hiếu
+55,1055,Ông Lê Công Việt,NPP Bến Thành
+56,1056,Ông Phạm Văn Quang,NPP Thu Tân
+57,1057,Ông Nguyễn Văn Long,NPP Hiếu Thảo
+58,1058,Ông Nguyễn Văn Thanh,NPP Thanh Hằng
+59,1059,Bà Lê Thị Hằng,NPP Thanh Hằng
+60,1060,Bà Trần Thanh Mai,NPP Nguyễn Văn Cường
+61,1061,Ông Đinh Văn Vinh,NPP Nguyễn Văn Cường
+62,1062,Ông Đinh Hoàng Ông,NPP Nguyễn Văn Cường
+63,1063,Bà Trương Thị Hải Dương,NPP Nguyễn Văn Cường
+64,1064,Ông Nguyễn Xuân Hùng,NPP Hoa Hùng
+65,1065,Ông Nguyễn Việt Cường,NPP HPC
+66,1066,Bà Trương Thị Trà My,NPP Thu Tân
+67,1067,Bà Nguyễn Hiểu Tâm ,NPP An Thái
+68,1068,Ông Lý Thái Hoài,NPP Thái Minh
+69,1069,Ông Hoàng Văn Tiến,NPP Tiến Cường
+70,1070,Ông Nguyễn Văn Nghĩa,NPP Thành Nghĩa
+71,1071,Bà Trương Kim Thuỷ,NPP Thành Nghĩa
+72,1072,Ông Lương Tuấn Hào,NPP Điện SG
+73,1073,Bà Nguyễn Ngọc Tuyền,NPP Điện SG
+74,1074,Bà Lê Khánh Hồng,NPP Hoàng Gia
+75,1075,Bà Trần Kim Mau,NPP Hoàng Gia
+76,1076,Bà Lê Thị Thúy Nga,NPP Anh Kiệt
+77,1077,Ông Phạm Việt Hùng,NPP Anh Kiệt
+78,1078,Ông Lê Văn Phúc,NPP Anh Kiệt
+79,1079,Bà Lê Thị Ánh Nguyệt,NPP Anh Kiệt
+80,1080,Bà Phạm Ngọc Tuyết,NPP Quang Duy
+81,1081,Ông Nguyễn Văn Tuyên,NPP Quang Duy
+82,1082,Bà Nguyễn Thị Hải,NPP Quang Duy
+83,1083,Bà Nguyễn Thị Nga,NPP Quang Duy
+84,1084,Bà Nguyễn Thị Khánh,NPP Quang Duy
+85,1085,Ông Nguyễn Văn Vũ,NPP Huyền Vũ
+86,1086,Bà Phạm Thị Huyền,NPP Huyền Vũ
+87,1087,Ông Nguyễn Tràng Xuân,NPP Tổng Hợp Hà Nội
+88,1088,Bà Nguyễn Thị Xuân Mai,NPP Tổng Hợp Hà Nội
+89,1089,Ông Phan Văn Dũng,NPP Dũng Lý
+90,1090,Bà Đỗ Thị Lý,NPP Dũng Lý
+91,1091,Bà Nguyễn Thùy Linh,NPP Lộc Phát
+92,1092,Bà Nguyễn Thu Hoa,NPP Lộc Phát
+93,1093,Ông Trịnh Văn Điệp,NPP Cơ Điện Ông Hải
+94,1094,Bà Nguyễn Thị Dung,NPP Cơ Điện Ông Hải
+95,1095,Ông Nguyễn Mạnh Tiến,NPP Mạnh Tiến
+96,1096,Bà Tưởng Thị Thanh Hương,NPP Mạnh Tiến
+97,1097,Ông Nguyễn Trung Hiếu,NPP Huy Dương
+98,1098,Bà Lê Thị Huyền,NPP Doraco Việt Ông
+99,1099,Bà Lê Thị Ngát,NPP Minh Thám
+100,1100,Ông Quản Hữu Duy,NPP QHD
+101,1101,Ông Nguyễn Đăng Hậu,NPP Huế Hậu
+102,1102,Bà Trần Thu Hải,NPP Cường Hải
+103,1103,Ông Lê Tất Thắng,NPP Phúc Thắng
+104,1104,Ông Nguyễn Văn Thắng,NPP Quốc Hưng
+105,1105,Ông Nguyễn Văn Thanh,NPP Quốc Hưng
+106,1106,Bà Trần Thị Qúy,NPP Quốc Hưng
+107,1107,Ông Ngô Xuân Dương,NPP Quốc Hưng
+108,1108,Bà Dương Thị Minh Hương,NPP Việt Trung Anh
+109,1109,Ông Trương Đình Hiếu,NPP Việt Trung Anh
+110,1110,Bà Nguyễn Thu Huyền,NPP Khánh Linh
+111,1111,Ông Lê Anh Thắng,NPP Khánh Linh
+112,1112,Ông Đỗ Mạnh Cường,NPP Hải Đăng
+113,1113,Ông Trương Đình Quân,NPP Đức Hùng
+114,1114,Bà Nguyễn Thị Thanh Hương,NPP Thanh Hương
+115,1115,Ông Trần Quang Vinh,NPP Xuất Nhập Khẩu Asian
+116,1116,Ông Hoàng Văn Ngọc,NPP Tâm Đức
+117,1117,Ông Nguyễn Tài Chung,NPP Minh Tiến
+118,1118,Ông Nguyễn Văn Hiển,NPP Quang Ngọc
+119,1119,Ông Hoàng Linh,NPP Nhật Trung
+120,1120,Ông Phạm Cao Vân,NPP Nhật Trung
+121,1121,Bà Đặng Oánh Khoa,NPP Nhật Trung
+122,1122,Bà Nguyễn Thị Thu Hà,NPP Việt Anh
+123,1123,Bà Nguyễn Thị An,NPP An Đức
+124,1124,Bà Nguyễn Thị Ngọc Linh,NPP An Đức
+125,1125,Ông Phạm Văn Khang,NPP Đăng Khoa
+126,1126,Bà Lê Thị Thúy Huyền,NPP Đăng Khoa
+127,1127,Bà Đỗ Thị Minh Thủy,NPP An Hòa
+128,1128,Ông Nguyễn Tiến Mạnh,NPP An Hòa
+129,1129,Ông Nguyễn Văn Hùng,NPP An Hòa
+130,1130,Bà Nguyễn Thị Luận,NPP Chiến Thắng
+131,1131,Ông Nguyễn Khắc Cháng,NPP Chiến Thắng
+132,1132,Ông Hoàng Anh Đại,NPP Hoàng Đại
+133,1133,Ông Nguyễn Ông Phong,NPP VSQ Việt Ông
+134,1134,Ông Mai Nhật Linh,NPP VSQ Việt Ông
+135,1135,Ông Nguyễn Văn Hào,NPP Á Châu Gold
+136,1136,Ông Nguyễn Văn Hoạt,NPP Á Châu Gold
+137,1137,Bà Nguyễn Thị Hiền Lương,NPP Kim Ngân Hoàng
+138,1138,Bà Hoàng Kim Ngân,NPP Kim Ngân Hoàng
+139,1139,Ông Hoàng Văn Tú,NPP Bình Minh Garden Hà Nội
+140,1140,Bà Phạm Thị Bích Phượng,NPP Bình Minh Garden Hà Nội
+141,1141,Bà Tô Thị Thái Thúy,NPP Minh Quân
+142,1142,Ông Nguyễn Viết Thu,NPP Thiết Bị Điện Nước Hà Nội
+143,1143,Ông Nguyễn Gia Kết,NPP MHT Châu Á
+144,1144,Ông Lê Đăng Hùng,NPP Loan Thúy VN
+145,1145,Bà Nguyễn Thị Lý,NPP Loan Thúy VN
+146,1146,Ông Lê Văn Hoạch,NPP Hà Dương
+147,1147,Bà Dương Hồng Vân,NPP Ngọc Khánh
+148,1148,Bà Lê Thị Ngân,NPP Panix
+149,1149,Ông Lê Quang Trung,NPP Trung Kiên
+150,1150,Ông Nguyễn Tất Tạo,NPP Indo Fonder
+151,1151,Ông Phùng Văn Cường,NPP Savico
+152,1152,Bà Hoàng Thị Hương,NPP Bảo Minh
+153,1153,Ông Nguyễn Đình Tú,NPP Minh Hưng
+154,1154,Ông Lưu Bách Hiền ,NPP Minh Hưng
+155,1155,Ông Nguyễn  Quang Minh,NPP Minh Hưng
+156,1156,Bà Nguyễn Thị Hồng,NPP Minh Hưng
+157,1157,Ông Nguyễn Đình Khiêm,NPP Minh Hưng
+158,1158,Ông Nguyễn Quang Sơn ,NPP Minh Hưng
+159,1159,Ông Nguyễn Bách Hoàn,NPP Minh Hưng
+160,1160,Ông Nguyễn Hữu Hoàng,NPP Thiết Bị Điện 1-4
+161,1161,Bà Nguyễn Thị Thanh Loan,NPP Thiết Bị Điện 1-5
+162,1162,Ông Nguyễn Đức Tá,NPP Bảo Lan
+163,1163,Bà Nguyễn Thị Luyến,NPP Bảo Lan
+164,1164,Ông Hoàng Hải Ưng,NPP Nguyễn Hoàng Thái Nguyên
+165,1165,Bà Triệu Thị Thảo,NPP Nguyễn Hoàng Thái Nguyên
+166,1166,Ông Hoàng Đình Lai,NPP Minh Phương
+167,1167,Bà Phạm Thị Hằng,NPP Minh Phương
+168,1168,Ông Lê Minh Thái,NPP Hoàng Thái
+169,1169,Bà Nguyễn Thị Thúy ,NPP Hoàng Thái
+170,1170,Bà Vũ Thị Thảo,NPP Hưng Long
+171,1171,Ông Bùi Quốc Hưng,NPP Hưng Long
+172,1172,Bà Nguyễn Thị Kim Liên,NPP An Lộc
+173,1173,Ông Nguyễn Quang Hùng,NPP An Lộc
+174,1174,Ông Nguyễn Quốc Bảo,NPP Bảo Linh
+175,1175,Ông Dương Văn Thoán,NPP Minh Cầu
+176,1176,Ông Nguyễn Lê Linh,NPP TSC
+177,1177,Ông Nguyễn Khắc Tuấn,NPP TSC
+178,1178,Ông Phạm Tuấn Thanh,NPP TSC
+179,1179,Ông Nguyễn Văn Bằng,NPP Thanh Tùng
+180,1180,Ông Lê Quý Cường,NPP Lê Gia
+181,1181,Ông Hoàng Văn Mẫn ,NPP BCOM
+182,1182,Bà Ngô Thùy Dương,NPP Dũng Linh
+183,1183,Bà Nguyễn Thị Thúy,NPP Anh Thúy
+184,1184,Ông Nguyễn Công Chính,NPP Hiếu Thành
+185,1185,Bà Dương Thị Hà,NPP Điện Tử Suki
+186,1186,Bà Dương Thị Huyền,NPP Điện Tử Suki
+187,1187,Bà Lê Thị Hạnh,NPP ADC Việt Ông
+188,1188,Ông Đỗ Minh Hùng,NPP Minh Hùng
+189,1189,Bà Nguyễn Thị Ngọc Dung,NPP Minh Hùng
+190,1190,Bà Nguyễn Thị Kim,NPP Thắng Lợi
+191,1191,Ông Nguyễn Đình Hưởng,NPP Thắng Lợi
+192,1192,Bà Trịnh Thị Mỹ Linh,NPP Lê Đức
+193,1193,Bà Trịnh Thị Kiều Chinh,NPP Lê Đức
+194,1194,Bà Nguyễn Phương Mai,NPP Anh Công Hải
+195,1195,Ông Nguyễn Văn Cửu,NPP Anh Công Hải
+196,1196,Bà Nguyễn Thị Kim Thanh,NPP Hà Dương
+197,1197,Bà Nguyễn Thị Thu Hà,NPP Hà Dương
+198,1198,Ông Nguyễn Lê Hùng,NPP Chiếu Sáng HD
+199,1199,Bà Nguyễn Phan Linh Anh,NPP Chiếu Sáng HD
+200,1200,Ông Nguyễn Hồng Quang,NPP Thiết Bị Điện Bắc Giang
+201,1201,Ông Phạm Văn Lạc,NPP Thiết Bị Điện Bắc Giang
+202,1202,Bà Trần Phương Lan,NPP Vĩnh Thành
+203,1203,Bà Nguyễn Thị Loan,NPP Hòa Loan
+204,1204,Ông Mai Văn Tuyển,NPP Tâm Anh
+205,1205,Ông Đỗ Hưng Biên,NPP Biên Loan
+206,1206,Bà Hoàng Thanh Ngọc,NPP Đăng Minh
+207,1207,Bà Nguyễn Thanh Tình,NPP Đăng Minh
+208,1208,Bà Hà Thị Phương Lý,NPP Thắng Nây An
+209,1209,Ông Nguyễn Ngọc Khôi,NPP B2T
+210,1210,Ông Nguyễn Khắc Huy,NPP Bắc Hà
+211,1211,Bà Bùi Thị Tịnh,NPP Việt Đức
+212,1212,Ông Trần Bá Hiến,NPP Việt Đức
+213,1213,Bà Quách Thị Miên,NPP Việt Đức
+214,1214,Ông Lê Đức Thắng,NPP Việt Đức
+215,1215,Ông Lê Trọng Lục,NPP Bắc Phương Ông
+216,1216,Ông Lê Trọng Ông,NPP Bắc Phương Ông
+217,1217,Bà Đỗ Thị Nguyệt ,NPP Bắc Phương Ông
+218,1218,Ông Nguyễn Huy Linh,NPP Bắc Phương Ông
+219,1219,Bà Nguyễn Thị Nhung,NPP Bắc Phương Ông
+220,1220,Bà Ngô Thị Thanh Thuý,NPP Anh Tiến
+221,1221,Bà Đỗ Thị Bích Thảo,NPP Anh Tiến
+222,1222,Bà Bùi Thị Hoàn,NPP Hương Sơn
+223,1223,Bà Nguyễn Thị Thúy Hằng,NPP Hoàng Hợp
+224,1224,Ông Cao Đăng Hợp,NPP Hoàng Hợp
+225,1225,Bà Nguyễn Thị Oanh,NPP Nguyễn Thị Oanh
+226,1226,Ông Bùi Duy Cần,NPP Nguyễn Thị Oanh
+227,1227,Bà Đặng Thị Hải Yến,NPP Đức Quân
+228,1228,Ông Nguyễn Ngọc Đại,NPP Đức Quân
+229,1229,Ông Nguyễn Văn Chào,NPP MC Duy Phong
+230,1230,Ông Nguyễn Văn Nhượng,NPP MC Duy Phong
+231,1231,Ông Đào Văn Thực,NPP SSK
+232,1232,Bà Nguyễn Thị Thoa,NPP SSK
+233,1233,Bà Hoàng Thị Yến,NPP Mẫn Khánh
+234,1234,Ông Nguyễn Duy Được,NPP Trường Hải
+235,1235,Bà Đinh Thị Ngọc,NPP Trường Hải
+236,1236,Ông Lê Văn Cường,NPP Cường Tiên
+237,1237,Bà Nguyễn Thủy Tiên,NPP Cường Tiên
+238,1238,Ông Nguyễn Quyết Tiến ,NPP Tiến Dựng
+239,1239,Ông Vũ Văn Trường,NPP Tiến Dựng
+240,1240,Ông Đào Như Khuyến,NPP Khuyến Nội
+241,1241,Bà Bùi Thị Nội,NPP Khuyến Nội
+242,1242,Bà Trần Thị Thu Hiền,NPP Trang Anh
+243,1243,Ông Nguyễn Văn Chánh,NPP Trang Anh
+244,1244,Bà Trần Thanh Tâm,NPP Tâm Hương
+245,1245,Ông Hoàng Xuân Thái,NPP Sơn La
+246,1246,Bà Đoàn Thị Sáu,NPP Nguyên Thành
+247,1247,Bà Lê Thị Hoa,NPP Doraco Việt Ông
+248,1248,Ông Phùng Mạnh Hà,NPP Sơn Hải
+249,1249,Bà Vũ Thị Thu Hằng,NPP Sơn Hải
+250,1250,Ông Hoàng Minh Giang,NPP TTG
+251,1251,Ông Nguyễn Quốc Hữu,NPP Dương Văn Hậu
+252,1252,Bà Trần Diểm Mi,NPP Dương Văn Hậu
+253,1253,Ông Lê Thanh Phạm Nguyên,NPP Hùng Tơ
+254,1254,Bà Lê Thùy Dương,NPP Hùng Tơ
+255,1255,Bà Lê Thị An,NPP An Hùng
+256,1256,Bà Nguyễn Thị Hòe,NPP An Hùng
+257,1257,Ông Nguyễn Chí Tình,NPP Hào Quang
+258,1258,Ông Nguyễn Chí Minh,NPP Hào Quang
+259,1259,Bà Nguyễn Thị Vinh,NPP Lộc Vinh Quang
+260,1260,Bà Nguyễn Thị Tuyết Thanh,NPP Lộc Vinh Quang
+261,1261,Ông Nguyễn Đình Hoan,NPP Trung Hoan
+262,1262,Bà Trần Thị Hoa,NPP Trung Hoan
+263,1263,Bà Nguyễn Thị Mỹ Linh,NPP Thiên Phước Lộc
+264,1264,Ông Nguyễn Chí Trung,NPP Thiên Phước Lộc
+265,1265,Ông Nguyễn Xuân Đồng,NPP Thiên Phước Lộc
+266,1266,Bà Nguyễn Thị Mai Liên ,NPP Thiên Phước Lộc
+267,1267,Bà Trần Thị Hiền,NPP Trường Giang A
+268,1268,Bà Nguyễn Thị Hằng,NPP Heli Group
+269,1269,Ông Bùi Thái Bản,NPP Heli Group
+270,1270,Bà Thái Thị Phương,NPP Heli Group
+271,1271,Ông Ngô Văn Tú,NPP Heli Group
+272,1272,Ông Nguyễn Đình Bính,NPP Kim Minh Long
+273,1273,Bà Đỗ Thị Thảo,NPP Kim Minh Long
+274,1274,Ông Trần Văn Cường,NPP Trung Thu
+275,1275,Bà Trần Thị Trang,NPP Trung Thu
+276,1276,Ông Trần Duy Hà,NPP Trung Thu
+277,1277,Ông Nguyễn Khả Trí,NPP Hân Trang
+278,1278,Ông Đặng Ngọc Toàn,NPP Hùng Oanh
+279,1279,Bà Nguyễn Thị Thanh Huệ,NPP Việt Tân Sơn
+280,1280,Bà Vương Thị Hồng Dịu,NPP Việt Tân Sơn
+281,1281,Ông Nguyễn Văn Hòa,NPP Hiền Hòa
+282,1282,Bà Nguyễn Thị Thu Hiền,NPP Hiền Hòa
+283,1283,Bà Trần Thị Đào,NPP Gia Minh
+284,1284,Bà Đặng Thị Quỳnh Nga,NPP Gia Minh
+285,1285,Ông Cao Văn Khang,NPP Vân Khang Phát
+286,1286,Bà Huỳnh Thị Vân,NPP Vân Khang Phát
+287,1287,Ông Trần Kim Cương,NPP Long Tâm
+288,1288,Bà Ngô Thị Hoài Thu,NPP Long Tâm
+289,1289,Bà Lê Thị Thanh Thanh,NPP Xuân Phong
+290,1290,Ông Dương Hồng Quang,NPP Xuân Phong
+291,1291,Bà Trần Thị Linh,NPP Lý Lời
+292,1292,Bà Nguyễn Thị Phương,NPP Cầu Ngọc Phượng
+293,1293,Ông Nguyễn Văn Ngọc,NPP Cầu Ngọc Phượng
+294,1294,Bà Trần Thị Thanh Bích,NPP Hoa Ông
+295,1295,Bà Trịnh Thị Hồng Ngọc,NPP Sơn Ngọc
+296,1296,Bà Nguyễn Thị Kim,NPP Kim Bình
+297,1297,Ông Phan Văn Lâm,NPP Lâm Yến
+298,1298,Bà Nguyễn Thị Hà,NPP Hà Dương
+299,1299,Ông Trần Văn Dương,NPP Hà Dương
+300,1300,Bà Lê Thị Nga,NPP Hà Dương
+301,1301,Bà Nguyễn Thị Lan,NPP Hà Dương
+302,1302,Bà Trần Thị Mùi,NPP Hà Dương
+303,1303,Ông Lê Văn Quế,NPP Hà Dương
+304,1304,Ông Lê Văn Lương,NPP Lê Thị Thủy
+305,1305,Bà Lê Thị Thuỷ,NPP Lê Thị Thủy
+306,1306,Bà Lê Thị Thúy,NPP Đức Tâm
+307,1307,Bà Nguyễn Thị Hồng Nhung,NPP Đức Tâm
+308,1308,Bà Lê Thị Thúy,NPP Đức Tâm
+309,1309,Ông Đặng Anh Đức,NPP Thế Hệ Trẻ
+310,1310,Bà Lê Thị Hằng,NPP Thế Hệ Trẻ
+311,1311,Ông Vũ Văn Thủy,NPP Hoàng Dương Vĩnh Phúc
+312,1312,Bà Vũ Thị Mận,NPP Dương Vĩnh Phúc
+313,1313,Bà Vũ Thị Hồng Thủy,NPP ADB
+314,1314,Ông Nguyễn Thế Việt,NPP ADB
+315,1315,Ông Tạ Quang Tố,NPP Hợp Thịnh
+316,1316,Bà Nguyễn Thị Huệ,NPP Hợp Thịnh
+317,1317,Ông Nguyễn Văn Huy,NPP Ngọc Khánh Linh
+318,1318,Bà Lê Thị Thuý,NPP Ngọc Khánh Linh
+319,1319,Bà Vũ Thị Bích Thúy,NPP Điện Công Nghiệp Vĩnh Phúc
+320,1320,Ông Lê Văn Huy,NPP Nhật Phát Vĩnh Phúc
+321,1321,Ông Nguyễn Duy Mạnh,NPP Toàn Mạnh Thắng
+322,1322,Ông Nguyễn Công Thương,NPP Toàn Mạnh Thắng
+323,1323,Ông Nguyễn Văn Sự,NPP Hà Trang
+324,1324,Ông Nguyễn Xuân Ái,NPP Đức Anh
+325,1325,Bà Bàn Thị Nhung,NPP Đức Anh
+326,1326,Ông Chu Thanh Chuyên,NPP Nguyễn Hương Giang
+327,1327,Bà Nguyễn Hồng Quân,NPP Nguyễn Hương Giang
+328,1328,Bà Nguyễn Thị Dậu,NPP Ký Hòa
+329,1329,Ông Nguyễn Tuấn Anh,NPP An Bình
+330,1330,Bà Nguyễn Thị Hà Trang,NPP An Bình
+331,1331,Ông Nguyễn Thanh Sơn,NPP Ánh Dương
+332,1332,Ông Vũ Mạnh Thắng,NPP Thái Dương Phú Thọ
+333,1333,Bà Nguyễn Thị Thúy Hà,NPP Thái Dương Phú Thọ
+334,1334,Ông Nguyễn Khắc Thảo,NPP Phúc Lộc Hòa
+335,1335,Bà Phùng Thị Phượng,NPP An Bình VP
+336,1336,Ông Phùng Văn Kiên,NPP An Bình VP
+337,1337,Bà Dương Thị Mến,NPP Hòa Mến Phú Thọ
+338,1338,Ông Phạm Văn Vĩnh,NPP HPC
+339,1339,Ông Lê Trọng Tân,NPP HPC
+340,1340,Ông Lê Anh Tuấn,NPP Tuấn Hoàng
+341,1341,Bà Quách Thị Thúy Hạnh,NPP Tuấn Hoàng
+342,1342,Bà Trần Thị Nhung,NPP Công Đạt
+343,1343,,
+344,1344,,
+345,1345,,
+346,1346,,
+347,1347,,
+348,1348,,
+349,1349,,
+350,1350,,
+351,1351,,
+352,1352,,
+353,1353,,
+354,1354,,
+355,1355,,
+356,1356,,
+357,1357,,
+358,1358,,
+359,1359,,
+360,1360,,
+361,1361,,
+362,1362,,
+363,1363,,
+364,1364,,
+365,1365,,
+366,1366,,
+367,1367,,
+368,1368,,
+369,1369,,
+370,1370,,
+371,1371,,
+372,1372,,
+373,1373,,
+374,1374,,
+375,1375,,
+376,1376,,
+377,1377,,
+378,1378,,
+379,1379,,
+380,1380,,
+381,1381,,
+382,1382,,
+383,1383,,
+384,1384,,
+385,1385,,
+386,1386,,
+387,1387,,
+388,1388,,
+389,1389,,
+390,1390,,
+391,1391,,
+392,1392,,
+393,1393,,
+394,1394,,
+395,1395,,
+396,1396,,
+397,1397,,
+398,1398,,
+399,1399,,
+400,1400,,
